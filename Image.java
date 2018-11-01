@@ -47,3 +47,4 @@ public class Image {
 		out.close();
 	}
 }
+
